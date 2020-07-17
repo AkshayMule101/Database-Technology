@@ -1,4 +1,4 @@
-#Assignment 4
+#Assignment 4 Retrieving Information from Tables.
 Use day1;
 /*Write a select command that produces the order number, amount, and date for all 
 rows in the Orders table.*/
